@@ -7,7 +7,14 @@
 }
 
 :root {
-    font-family: 'Lato', sans-serif;
     --header-background: #f4f9fc;
     --header-text: #607285;
+    --header-nav-background: #ffffff
+    font-family: 'Lato', sans-serif;
+    scroll-behavior: smooth;
+
+}
+
+a {
+    text-decoration: none;
 }
