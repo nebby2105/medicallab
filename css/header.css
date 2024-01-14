@@ -1,0 +1,7 @@
+.contacts {
+    background-color: var(--header-background);
+}
+
+.contacts > p, address {
+    color: var(--header-text);
+} 
